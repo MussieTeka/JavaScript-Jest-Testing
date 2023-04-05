@@ -1,8 +1,7 @@
 <div align="center">
   <img src="mussie.png" alt="Logo" width="300">
+  # JavaScript Jest Testing
 </div>
-
-# JavaScript Jest Testing
 
 ## 📝 Description
 - [Objectives](#objectives)
