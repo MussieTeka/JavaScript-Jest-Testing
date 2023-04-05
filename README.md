@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="mussie.png" alt="Logo" width="80" height="80">
+  <img src="mussie.png" alt="Logo" width="300">
 </div>
 
 # JavaScript Jest Testing
