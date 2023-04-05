@@ -1,6 +1,19 @@
+<div align="center">
+  <img src="mussie.png" alt="Logo" width="80" height="80">
+</div>
+
 # JavaScript Jest Testing
 
-This repository contains code and exercises related to JavaScript testing with Jest. It covers the basics of unit testing, including the AAA pattern, TDD, and more advanced topics like mocking.
+## 📝 Description
+- [Learning Objectives](#learning-objectives)
+- [Exercise](#exercise)
+- [Getting Started](#getting-started)
+- [How to Use](#how-to-use)
+- [Contributing](#contributing)
+- [License](#license)
+- [Resources](#resources)
+
+This repository contains exercises and examples for practicing testing in JavaScript using the Jest library. It includes practical tests for JavaScript functions and examples of how to use the AAA pattern and TDD approach. The repository also has a calculator class with methods for addition, subtraction, multiplication, and division, and includes tests grouped by method using the describe() method.
 
 ## Learning Objectives
 
@@ -32,7 +45,16 @@ Write a test for a `capitalize(string)` function that takes a string as an argum
 
 To get started, clone this repository to your local machine and run `npm install` to install the necessary dependencies. Then, you can run `npm test` to run the test suite.
 
+## 🔧 How to Use
+Each exercise is located in its own file in the `exercises` directory. To practice a particular exercise, open the corresponding file and write your tests following the instructions in the file. The `calculator.js` file contains the calculator class and its methods for addition, subtraction, multiplication, and division.
+
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check out the [issues page](https://github.com/MussieTeka/JavaScript-Jest-Testing/issues).
+
+## 📝 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Resources
 
 - [Jest Documentation](https://jestjs.io/)
-- [Testing JavaScript with Jest](https://www.udemy.com/course/testing-javascript/)
+- [JavaScript Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
