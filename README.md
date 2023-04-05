@@ -5,7 +5,7 @@
 # JavaScript Jest Testing
 
 ## 📝 Description
-- [Learning Objectives](#learning-objectives)
+- [Objectives](#objectives)
 - [Exercise](#exercise)
 - [Getting Started](#getting-started)
 - [How to Use](#how-to-use)
@@ -15,7 +15,7 @@
 
 This repository contains exercises and examples for practicing testing in JavaScript using the Jest library. It includes practical tests for JavaScript functions and examples of how to use the AAA pattern and TDD approach. The repository also has a calculator class with methods for addition, subtraction, multiplication, and division, and includes tests grouped by method using the describe() method.
 
-## Learning Objectives
+## Objectives
 
 - Write unit tests for a JavaScript app
 - Use the AAA pattern for unit tests
