@@ -1,0 +1,15 @@
+{
+  "name": "javascript-jest-testing",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">   <img src=\"mussie.png\" alt=\"Logo\" width=\"300\"> </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
